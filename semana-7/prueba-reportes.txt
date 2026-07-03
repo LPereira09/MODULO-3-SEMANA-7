@@ -1,0 +1,3 @@
+Al consultar la ruta GET /reportes, la plataforma devuelve un listado de los reportes registrados previamente mediante la ruta POST. 
+Cada reporte incluye un identificador, el tipo de incidencia y su descripción. Esto permite verificar que la información
+ fue almacenada correctamente y puede ser consultada cuando sea necesario. 
